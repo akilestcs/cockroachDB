@@ -1,4 +1,6 @@
-# cockroachDB
+
+# MYSQL to cockroachDB
+#Export mysql tables separately as .sql .
 #Please download the karl.tar file and untar in a new folder.
 #once all the .sql files untar , run below script in command line to import all tables.
 
